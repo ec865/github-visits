@@ -2,11 +2,11 @@
 
 ## Introduction
 
-This Python script allows you to count the number of visitors to a GitHub profile page. It is a simple and lightweight tool that can be useful for tracking the popularity of your GitHub profile.
+This Python code allows you to count the number of visitors to a GitHub profile page. It is a simple and lightweight tool that can be useful for tracking the popularity of your GitHub profile.
 
 ## Prerequisites
 
-Before you can use this script, you need to have Python installed on your system.
+Before you can use this script, you need to have an AWS Lambda Function running Python. Additionally, make sure to create a relevant DynamoDB table and configure API Gateway. 
 
 ## Usage
 
