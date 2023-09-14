@@ -29,5 +29,3 @@ cd github-visits
 ```bash
 python profile_visitor_counter.py
 ```
-
-The script will fetch the visitor count and display it.
