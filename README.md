@@ -27,5 +27,5 @@ cd github-visits
 3. Run the script:
 
 ```bash
-python profile_visitor_counter.py
+python github_visits.py
 ```
