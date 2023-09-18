@@ -45,9 +45,7 @@ def get_visits():
     
         
 def lambda_handler(event, context):
-    
-    
-    
+      
     http_method = event['httpMethod']
     
     if (http_method == 'GET'):
