@@ -40,9 +40,8 @@ def get_visits():
         return {
         'statusCode': 400,
         'body': json.dumps('Error getting the visits!')
-        }
-    
-        
+        }    
+       
 def lambda_handler(event, context):
     http_method = event['httpMethod']
     if (http_method == 'GET'):
