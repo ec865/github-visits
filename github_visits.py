@@ -5,7 +5,6 @@ from datetime import datetime
 
 logger = logging.getLogger()
 logger.setLevel(logging.INFO)
-
 # Get the service resource.
 client = boto3.resource('dynamodb')
 table_name = 'visits'
