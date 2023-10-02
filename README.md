@@ -6,7 +6,7 @@ This Python code allows you to count the number of visitors to a GitHub profile 
 
 ## Prerequisites
 
-Before you can use this script, you need to have an AWS Lambda Function running Python 3. Additionally, make sure to create a relevant DynamoDB table and configure API Gateway. 
+Before you can use this script, you need to have an AWS Lambda Function running Python 3. Additionally, make sure to create a relevant DynamoDB table and configure API Gateway.  
 
 ## Usage
 
